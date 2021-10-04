@@ -54,5 +54,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m21/proprietary/vendor/lib64/libkeymaster_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster_helper.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libkeymaster4_1support.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster4_1support.so \
     vendor/samsung/m21/proprietary/vendor/bin/hw/android.hardware.keymaster@4.0_strongbox-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.keymaster@4.0_strongbox-service \
-    vendor/samsung/m21/proprietary/vendor/etc/init/android.hardware.keymaster@4.0_strongbox-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@4.0_strongbox-service.rc \
-    vendor/samsung/m21/proprietary/vendor/lib64/libskeymaster4device.so.toc:$(TARGET_COPY_OUT_VENDOR)/lib64/libskeymaster4device.so.toc
+    vendor/samsung/m21/proprietary/vendor/etc/init/android.hardware.keymaster@4.0_strongbox-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@4.0_strongbox-service.rc
